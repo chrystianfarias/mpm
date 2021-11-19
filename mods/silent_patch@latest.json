@@ -10,7 +10,7 @@
             "description": "O objetivo do mod é acabar com os bugs originais do sistema do jogo, uma coisa que a Rockstar não fez, ou fez nas novas versões do GTA SA e assim SilentPatch traz isso também à versão 1.0."
         }
     },
-    "extract_dir": "SilentPath",
+    "extract_dir": "SilentPatch",
     "to_directory": "modloader/{package}",
     "thumbnail": "https://i.imgur.com/LaeOZh0.png",
     "url": "https://github.com/chrystianfarias/mpm/raw/main/mods/files/SA_-_SilentPatch.7z",
