@@ -11,7 +11,7 @@
         }
     },
     "extract_dir": "SilentPath",
-    "to_directory": "modloader",
+    "to_directory": "modloader/{package}",
     "thumbnail": "https://i.imgur.com/LaeOZh0.png",
     "url": "https://github.com/chrystianfarias/mpm/blob/main/mods/files/SA_-_SilentPatch.7z",
     "incompatible_mods": [],
