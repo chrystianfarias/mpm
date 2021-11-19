@@ -1,0 +1,15 @@
+{
+    "languages": {
+        "en_us": {
+            "name": "Graphics"
+        },
+        "pt_br": {
+            "name": "Gráficos"
+        }
+    },
+    "icon": "icons/graphics.png",
+    "full_install": false,
+    "mods": [
+        "mods/prelighting_fixes_pack@21.10.21.json"
+    ]
+}

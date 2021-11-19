@@ -1,0 +1,17 @@
+{
+    "version": "1.3",
+    "languages": {
+        "en_us": {
+            "name": "Silent's ASI Loader",
+            "description": "The main thing you need in your GTA to start installing mods: an ASI loader to load .asi files."
+        },
+        "pt_br": {
+            "name": "Silent's ASI Loader",
+            "description": "A principal coisa que precisa no seu GTA para começar a instalar mods: um ASI loader para carregar arquivos .asi."
+        }
+    },
+    "thumbnail": "https://1.bp.blogspot.com/-SR_rLuZRBok/URhevLqLcWI/AAAAAAAABQU/uH-vyOmUYkQ/s400/TFR3007.tmp.jpg",
+    "url": "https://d2.sharemods.com/cgi-bin/dl.cgi/mdkzjszrv4mfwd3xo5rka27djjncv46x6pubz5kyrqrichnpjekqbqi/Silent_ASI_Loader.rar",
+    "incompatible_mods": [],
+    "dependency_mods": []
+}

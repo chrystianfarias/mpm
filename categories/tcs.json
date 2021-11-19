@@ -1,0 +1,13 @@
+{
+    "languages": {
+        "en_us": {
+            "name": "TCs"
+        },
+        "pt_br": {
+            "name": "TCs"
+        }
+    },
+    "icon": "icons/tcs.png",
+    "full_install": false,
+    "mods": []
+}

@@ -1,0 +1,16 @@
+{
+    "languages": {
+        "en_us": {
+            "name": "Essentials Pack"
+        },
+        "pt_br": {
+            "name": "Pack Essencial"
+        }
+    },
+    "icon": "icons/essentials_pack.png",
+    "full_install": true,
+    "mods": [
+        "mods/silent_asi_loader@1.3.json",
+        "mods/cleo@4.4.json"
+    ]
+}
