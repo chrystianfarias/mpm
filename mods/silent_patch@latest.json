@@ -13,7 +13,7 @@
     "extract_dir": "SilentPath",
     "to_directory": "modloader",
     "thumbnail": "https://i.imgur.com/LaeOZh0.png",
-    "url": "https://d2.sharemods.com/cgi-bin/dl.cgi/mdkzjszrv4mfwd3xo5rka27djjncv46x6pubz5kyrqrichnpjekqbqi/Silent_ASI_Loader.rar",
+    "url": "https://github.com/chrystianfarias/mpm/blob/main/mods/files/SA_-_SilentPatch.7z",
     "incompatible_mods": [],
-    "dependency_mods": []
+    "dependency_mods": ["silent_asi_loader@latest"]
 }

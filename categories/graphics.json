@@ -10,6 +10,6 @@
     "icon": "icons/graphics.png",
     "full_install": false,
     "mods": [
-        "mods/prelighting_fixes_pack@21.10.21.json"
+        "mods/prelighting_fixes_pack@latest.json"
     ]
 }
