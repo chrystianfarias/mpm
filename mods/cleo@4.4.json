@@ -10,6 +10,8 @@
             "description": "Se trata de um plugin que carrega e executa arquivos .cs (custom script) amplamente utilizados na criação de mods de script para GTA III, VC e SA."
         }
     },
+    "extract_dir": "",
+    "to_directory": "",
     "thumbnail": "https://4.bp.blogspot.com/-urMufkRSwLI/UvlUctgvu4I/AAAAAAAACDs/egAR-wn3Z-g/s16000/IMG0118A.jpg",
     "url": "https://d2.sharemods.com/cgi-bin/dl.cgi/mdkzjszrv4mfwd3xo5rka27djjncv46x6pubz5kyrqrichnpjekqbqi/Silent_ASI_Loader.rar",
     "incompatible_mods": [],
