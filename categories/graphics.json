@@ -9,7 +9,5 @@
     },
     "icon": "icons/graphics.png",
     "full_install": false,
-    "mods": [
-        "prelighting_fixes_pack@latest.json"
-    ]
+    "mods": []
 }
