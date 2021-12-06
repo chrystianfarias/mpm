@@ -13,6 +13,9 @@
         "silent_asi_loader@latest",
         "cleo@latest",
         "modloader@latest",
-        "msilent_patch@latest"
+        "silent_patch@latest",
+        "widescreen_fix@latest",
+        "framerate_vigilante@latest",
+        "windowed_mode@latest"
     ]
 }
