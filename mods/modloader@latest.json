@@ -1,0 +1,19 @@
+{
+    "version": "3.7",
+    "languages": {
+        "en_us": {
+            "name": "ModLoader",
+            "description": "ModLoader is an ASI plugin for GTA San Andreas, GTA Vice City and GTA III which adds an extremely easy way to install and uninstall mods in GTA without replacing any file."
+        },
+        "pt_br": {
+            "name": "ModLoader",
+            "description": "ModLoader é um plugin ASI para o GTA San Andreas, GTA Vice City e GTA III que adiciona uma forma extremamente fácil de instalar e desinstalar mods no GTA, sem substituir qualquer arquivo."
+        }
+    },
+    "extract_dir": "",
+    "to_directory": "",
+    "thumbnail": "https://www.mixmods.com.br/wp-content/uploads/2018/01/r5TqhMj-8720026.png",
+    "url": "https://github.com/chrystianfarias/mpm/raw/main/mods/files/ModLoader.7z",
+    "incompatible_mods": [],
+    "dependency_mods": ["silent_asi_loader@latest"]
+}

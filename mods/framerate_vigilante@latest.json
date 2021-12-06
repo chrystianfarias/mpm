@@ -1,0 +1,19 @@
+{
+    "version": "10.8.21",
+    "languages": {
+        "en_us": {
+            "name": "Framerate Vigilante",
+            "description": "Finally you can play GTA San Andreas, Vice City and III with high FPS!"
+        },
+        "pt_br": {
+            "name": "Framerate Vigilante",
+            "description": "Finalmente você pode jogar GTA San Andreas, Vice City e III com FPS alto!"
+        }
+    },
+    "extract_dir": "FramerateVigilante",
+    "to_directory": "modloader/{package}",
+    "thumbnail": "",
+    "url": "https://github.com/chrystianfarias/mpm/raw/main/mods/files/FramerateVigilante.7z",
+    "incompatible_mods": [],
+    "dependency_mods": ["modloader@latest"]
+}

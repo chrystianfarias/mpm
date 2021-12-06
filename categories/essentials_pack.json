@@ -10,7 +10,9 @@
     "icon": "icons/essentials_pack.png",
     "full_install": true,
     "mods": [
-        "silent_asi_loader@latest.json",
-        "cleo@latest.json"
+        "silent_asi_loader@latest",
+        "cleo@latest",
+        "modloader@latest",
+        "msilent_patch@latest"
     ]
 }

@@ -1,0 +1,19 @@
+{
+    "version": "1.6",
+    "languages": {
+        "en_us": {
+            "name": "Windowed Mode",
+            "description": "The current best way to play in windowed mode for GTA San Andreas, Vice City and III."
+        },
+        "pt_br": {
+            "name": "Windowed Mode",
+            "description": "O atual melhor mod de jogar em modo janela para GTA San Andreas, Vice City e III."
+        }
+    },
+    "extract_dir": "Windowed Mode",
+    "to_directory": "modloader/{package}",
+    "thumbnail": "https://www.mixmods.com.br/wp-content/uploads/2020/10/gta-sa-mod-window-janela-windowed-mode-1201945.jpg",
+    "url": "https://github.com/chrystianfarias/mpm/raw/main/mods/files/SA_VC_III_-_Windowed_Mode.7z",
+    "incompatible_mods": [],
+    "dependency_mods": ["modloader@latest"]
+}
