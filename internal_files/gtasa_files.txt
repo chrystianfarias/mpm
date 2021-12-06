@@ -409,7 +409,6 @@
 \text\italian.gxt#751379
 \text\spanish.gxt#763917
 \eax.dll#188416
-\gta_sa.exe#14405632
 \ogg.dll#36864
 \stream.ini#197
 \vorbis.dll#1060864
