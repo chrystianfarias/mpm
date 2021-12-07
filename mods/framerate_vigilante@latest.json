@@ -12,7 +12,7 @@
     },
     "extract_dir": "FramerateVigilante",
     "to_directory": "modloader/{package}",
-    "thumbnail": "",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNZX2Yf0EZKltjuVRMg8wu-xgdON0BN7f7NkNHNAYQ8b_oYFxQP-cpNq4",
     "url": "https://github.com/chrystianfarias/mpm/raw/main/mods/files/FramerateVigilante.7z",
     "incompatible_mods": [],
     "dependency_mods": ["modloader@latest"]
