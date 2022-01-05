@@ -402,7 +402,6 @@
 \models\player.img#66738176
 \movies\GTAtitles.mpg#21577541
 \movies\Logo.mpg#3740427
-\ReadMe\Readme.txt#35356
 \text\american.gxt#738256
 \text\french.gxt#798974
 \text\german.gxt#812934
