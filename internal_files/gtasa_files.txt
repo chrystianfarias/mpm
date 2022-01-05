@@ -412,4 +412,3 @@
 \ogg.dll#36864
 \stream.ini#197
 \vorbis.dll#1060864
-\vorbisFile.dll#65536
